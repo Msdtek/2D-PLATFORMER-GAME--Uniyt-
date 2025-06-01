@@ -1,0 +1,1 @@
+A 2D platformer game developed with Unity and C#. The player controls a character to jump over obstacles, shoot arrows, and progress through levels. Includes core mechanics such as movement, collision detection, scoring, and level transitions. Designed as a student project to practice fundamental game development concepts.
